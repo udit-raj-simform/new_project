@@ -1,3 +1,2 @@
--> Earlier nodes are deleted and
-0-> new lines are printed.
--> new commmit
+Some changes are agian made to create confkicts. 
+\hope it works.
